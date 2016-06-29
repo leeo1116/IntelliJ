@@ -3,6 +3,7 @@ package github.algorithms._207_course_schedule;
 import java.util.LinkedList;
 import java.util.Queue;
 
+
 public class Solution {
     /**
      * Each course can be denoted as a vertex in a graph. The prerequisites relationship between two classes can be described
@@ -65,3 +66,4 @@ public class Solution {
     return count == numCourses;
     }
 }
+
