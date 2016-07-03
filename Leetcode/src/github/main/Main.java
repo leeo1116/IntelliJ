@@ -10,6 +10,8 @@ public class Main {
         int [][]pres = {{1, 2}, {3, 5}, {2, 0}, {2, 8}};
         Solution s = new Solution();
         System.out.print(s.canFinish(courses, pres));
+
+
     }
 
 }
