@@ -1,18 +1,18 @@
 package main;
 
-import algorithms._207_course_schedule.Solution;
-import algorithms._282_expression_add_operations.Solution282;
+
+import algorithms.lintcode._096_partition_list.Solution096;
+import algorithms.lintcode.common.ListNode;
 
 public class TestDriver {
 
     public static void main(String[] args) {
-	    // write your code here
-        int courses = 10;
-        int [][]pres = {{1, 2}, {3, 5}, {2, 0}, {2, 8}};
-        Solution s = new Solution();
-        System.out.print(s.canFinish(courses, pres));
-        Solution282 s282 = new Solution282();
-        System.out.println(s282.addOperatioins("123", 6));
+        ListNode head = new ListNode(7);
+        head.next = new ListNode(8);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(6);
+        head.next.next.next.next = new ListNode(4);
+        ListNode.printLinkedList(Solution096.partition(head, 5), 5);
     }
 
 }
