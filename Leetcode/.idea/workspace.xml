@@ -5,31 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e893bc7-e265-4ea2-93b5-e6569e7e4dce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_096_partition_list/Solution096.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_112_remove_duplicates_from_linked_list/Solution112.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_165_merge_two_sorted_lists/Solution165.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_170_rotate_list/Solution170.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/common/ListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_007_binary_tree_serialization/Solution007.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_011_search_range_in_binary_tree/Solution011.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_036_reverse_linked_list_II/Solution036.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_066_binary_tree_preorder_traversal/Solution066.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_069_binary_tree_level_traversal/Solution069.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_073_construct_binary_tree_from_preorder_inorder_traversal/Solution073.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_085_insert_node_in_a_binary_search_tree/Solution085.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_087_remove_node_in_binary_search_tree/Solution087.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_093_balanced_binary_tree/Solution093.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_095_validate_binary_search_tree/Solution095.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_097_maximum_depth_of_binary_tree/Solution097.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_098_sort_list/Solution098.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_099_reorder_list/Solution099.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_102_linked_list_cycle/Solution102.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_103_linked_list_cycle/Solution103.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_105_copy_list_with_random_pointer/Solution105.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_106_convert_sorted_list_to_balanced_BST/Solution106.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_113_remove_duplicates_from_sorted_list_II/Solution113.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_135_combination_sum/Solution135.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_152_combinations/Solution152.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_166_Nth_to_last_node_in_list/Solution166.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/_167_add_two_numbers/Solution167.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/common/RandomListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/common/TreeNode.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/TestDriver.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/TestDriver.java" afterPath="$PROJECT_DIR$/src/main/TestDriver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_126_word_ladder_II/Solution126.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_126_word_ladder_II/Solution126.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_179_largest_number/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_179_largest_number/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_207_course_schedule/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_207_course_schedule/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_210_course_schedule_II/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_210_course_schedule_II/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_212_word_search_II/Solution212.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_212_word_search_II/Solution212.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_218_the_skyline_problem/Solution218.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_218_the_skyline_problem/Solution218.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_220_contains_duplicates_III/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_220_contains_duplicates_III/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_282_expression_add_operations/Solution282.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_282_expression_add_operations/Solution282.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_297_serialize_and_deserialize_binary_tree/Codec.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_297_serialize_and_deserialize_binary_tree/Codec.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_301_remove_invalid_parentheses/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_301_remove_invalid_parentheses/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_307_range_sum_query_mutable/NumArray.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_307_range_sum_query_mutable/NumArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_316_remove_duplicate_letters/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_316_remove_duplicate_letters/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_321_create_maximum_number/Solution321.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_321_create_maximum_number/Solution321.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_368_largest_divisible_subset/Solution.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_368_largest_divisible_subset/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_373_find_k_pairs_with_smallest_sums/Solution373.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_373_find_k_pairs_with_smallest_sums/Solution373.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/algorithms/_375_guess_number_higher_or_lower_II/Solution375.java" afterPath="$PROJECT_DIR$/src/algorithms/leetcode/_375_guess_number_higher_or_lower_II/Solution375.java" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,10 +56,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TestDriver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/TestDriver.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="163">
+              <caret line="55" column="68" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,62 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution165.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_165_merge_two_sorted_lists/Solution165.java">
+      <file leaf-file-name="Solution135.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_135_combination_sum/Solution135.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution112.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_112_remove_duplicates_from_linked_list/Solution112.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution096.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_096_partition_list/Solution096.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution035.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution170.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_170_rotate_list/Solution170.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-373">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/common/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="209">
+              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#combinationSum#0;class#Solution135#0" expanded="false" />
+                <element signature="e#374#389#0" expanded="true" />
+                <element signature="e#434#443#0" expanded="true" />
+                <element signature="e#896#911#0" expanded="true" />
+                <element signature="e#962#971#0" expanded="true" />
+                <element signature="e#2156#2171#0" expanded="true" />
+                <element signature="e#2214#2223#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,30 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/github/Main.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_207_course_schedule/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_307_range_sum_query_mutable/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_210_course_schedule_II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_307_range_sum_query_mutable/NumArray.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_220_contains_duplicates_III/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_179_largest_number/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_368_largest_divisible_subset/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_301_remove_invalid_parenthesis/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_301_remove_invalid_parentheses/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_297_serialize_and_deserialize_binary_tree/Codec.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_316_remove_duplicate_letters/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_282_expression_add_operations/Solution.java" />
-        <option value="$PROJECT_DIR$/src/github/main/Main.java" />
-        <option value="$PROJECT_DIR$/src/github/main/TestDriver.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_218_the_skyline_problem/Solution218.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_321_create_maximum_number/Solution321.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_126_word_ladder_II/Solution126.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_212_word_search_II/Solution212.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_373_find_k_pairs_with_smallest_sums/Solution373.java" />
-        <option value="$PROJECT_DIR$/src/github/algorithms/_375_guess_number_higher_or_lower_II/Solution375.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/_207_course_schedule/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/_126_word_ladder_II/Solution126.java" />
         <option value="$PROJECT_DIR$/src/algorithms/_179_largest_number/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithms/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" />
         <option value="$PROJECT_DIR$/src/algorithms/_210_course_schedule_II/Solution.java" />
@@ -195,6 +132,31 @@
         <option value="$PROJECT_DIR$/src/algorithms/lintcode/_096_partition_list/Solution096.java" />
         <option value="$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java" />
         <option value="$PROJECT_DIR$/src/algorithms/lintcode/_170_rotate_list/Solution170.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_106_convert_sorted_list_to_balanced_BST/Solution106.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/common/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_105_copy_list_with_random_pointer/Solution105.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_102_linked_list_cycle/Solution102.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_099_reorder_list/Solution099.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_098_sort_list/Solution098.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_167_add_two_numbers/Solution167.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_166_Nth_to_last_node_in_list/Solution166.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_113_remove_duplicates_from_sorted_list_II/Solution113.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_036_reverse_linked_list_II/Solution036.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_103_linked_list_cycle/Solution103.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_097_maximum_depth_of_binary_tree/Solution097.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_093_balanced_binary_tree/Solution093.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_085_insert_node_in_a_binary_search_tree/Solution085.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_066_binary_tree_preorder_traversal/Solution066.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_095_validate_binary_search_tree/Solution095.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_073_construct_binary_tree_from_preorder_inorder_traversal/Solution073.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_069_binary_tree_level_traversal/Solution069.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_011_search_range_in_binary_tree/Solution011.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_007_binary_tree_serialization/Solution007.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_087_remove_node_in_binary_search_tree/Solution087.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_152_combinations/Solution152.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/lintcode/_135_combination_sum/Solution135.java" />
       </list>
     </option>
   </component>
@@ -272,7 +234,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lintcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,55 +264,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_170_rotate_list" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lintcode" />
+              <option name="myItemId" value="_135_combination_sum" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,8 +288,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,7 +307,7 @@
       <recent name="algorithms.Leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDriver">
+  <component name="RunManager" selected="Application.TestDriver (1)">
     <configuration default="false" name="TestDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -398,6 +316,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="main.TestDriver" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Leetcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDriver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algorithms.lintcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algorithms.lintcode.TestDriver" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -683,12 +621,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.TestDriver" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestDriver (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestDriver" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestDriver (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -816,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475949094375</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="10/13">
+      <created>1476427237390</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1476427237390</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -830,25 +777,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22768533" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3797054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1860817" sideWeight="0.5057283" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -875,7 +822,8 @@
     <MESSAGE value="07/19" />
     <MESSAGE value="07/22" />
     <MESSAGE value="10/08" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/08" />
+    <MESSAGE value="10/13" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -892,8 +840,14 @@
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -908,56 +862,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/github/main/TestDriver.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_179_largest_number/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_207_course_schedule/index-files/index-1.html" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_207_course_schedule/github/algorithms/_207_course_schedule/Solution.html" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_207_course_schedule/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_210_course_schedule_II/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_179_largest_number/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_307_range_sum_query_mutable/NumArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_220_contains_duplicates_III/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_368_largest_divisible_subset/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_301_remove_invalid_parentheses/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_297_serialize_and_deserialize_binary_tree/Codec.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_316_remove_duplicate_letters/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_321_create_maximum_number/Solution321.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_212_word_search_II/Solution212.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_218_the_skyline_problem/Solution218.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_282_expression_add_operations/Solution282.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_373_find_k_pairs_with_smallest_sums/Solution373.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_375_guess_number_higher_or_lower_II/Solution375.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/algorithms/_126_word_ladder_II/Solution126.java" />
-    <entry file="file://$PROJECT_DIR$/src/github/main/TestDriver.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_179_largest_number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_210_course_schedule_II/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_212_word_search_II/Solution212.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_220_contains_duplicates_III/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1056,32 +960,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_126_word_ladder_II/Solution126.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-681">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_207_course_schedule/Solution.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_220_contains_duplicates_III/Solution.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_126_word_ladder_II/Solution126.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_207_course_schedule/Solution.class" />
+    <entry file="file://$PROJECT_DIR$/out/production/Leetcode/algorithms/_220_contains_duplicates_III/Solution.class" />
     <entry file="file://$PROJECT_DIR$/src/algorithms/leetcode/_126_word_ladder_II/Solution126.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1089,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,25 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/TestDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,23 +988,258 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_170_rotate_list/Solution170.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
+        <state relative-caret-position="209">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/TestDriver.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_106_convert_sorted_list_to_balanced_BST/Solution106.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/common/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_105_copy_list_with_random_pointer/Solution105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_102_linked_list_cycle/Solution102.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_099_reorder_list/Solution099.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_098_sort_list/Solution098.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_167_add_two_numbers/Solution167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_166_Nth_to_last_node_in_list/Solution166.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_113_remove_duplicates_from_sorted_list_II/Solution113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_036_reverse_linked_list_II/Solution036.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_103_linked_list_cycle/Solution103.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_097_maximum_depth_of_binary_tree/Solution097.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_093_balanced_binary_tree/Solution093.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_085_insert_node_in_a_binary_search_tree/Solution085.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_066_binary_tree_preorder_traversal/Solution066.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_095_validate_binary_search_tree/Solution095.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#234#0" expanded="false" />
+            <element signature="e#290#291#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_073_construct_binary_tree_from_preorder_inorder_traversal/Solution073.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_069_binary_tree_level_traversal/Solution069.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_011_search_range_in_binary_tree/Solution011.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_007_binary_tree_serialization/Solution007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#926#934#0" expanded="true" />
+            <element signature="e#1032#1042#0" expanded="true" />
+            <element signature="e#1974#1984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_087_remove_node_in_binary_search_tree/Solution087.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_152_combinations/Solution152.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#265#266#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#442#457#0" expanded="false" />
+            <element signature="e#852#861#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="55" column="68" selection-start-line="55" selection-start-column="68" selection-end-line="55" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/lintcode/_135_combination_sum/Solution135.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#combinationSum#0;class#Solution135#0" expanded="false" />
+            <element signature="e#374#389#0" expanded="true" />
+            <element signature="e#434#443#0" expanded="true" />
+            <element signature="e#896#911#0" expanded="true" />
+            <element signature="e#962#971#0" expanded="true" />
+            <element signature="e#2156#2171#0" expanded="true" />
+            <element signature="e#2214#2223#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
