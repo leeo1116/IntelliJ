@@ -1,6 +1,6 @@
-package algorithms.lintcode._105_copy_list_with_random_pointer;
+package lintcode._105_copy_list_with_random_pointer;
 
-import algorithms.lintcode.common.RandomListNode;
+import lintcode.common.RandomListNode;
 
 import java.util.HashMap;
 import java.util.Map;

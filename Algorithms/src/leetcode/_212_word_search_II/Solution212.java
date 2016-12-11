@@ -1,4 +1,4 @@
-package algorithms.leetcode._212_word_search_II;
+package leetcode._212_word_search_II;
 
 import java.util.ArrayList;
 import java.util.List;

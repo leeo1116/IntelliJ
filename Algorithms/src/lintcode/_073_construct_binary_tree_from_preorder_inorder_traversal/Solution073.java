@@ -1,6 +1,6 @@
-package algorithms.lintcode._073_construct_binary_tree_from_preorder_inorder_traversal;
+package lintcode._073_construct_binary_tree_from_preorder_inorder_traversal;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 import java.util.Arrays;
 

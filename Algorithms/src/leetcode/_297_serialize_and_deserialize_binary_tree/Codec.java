@@ -1,4 +1,4 @@
-package algorithms.leetcode._297_serialize_and_deserialize_binary_tree;
+package leetcode._297_serialize_and_deserialize_binary_tree;
 
 
 import java.util.Arrays;

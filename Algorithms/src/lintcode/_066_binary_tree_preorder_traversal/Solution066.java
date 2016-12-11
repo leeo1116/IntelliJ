@@ -1,7 +1,7 @@
-package algorithms.lintcode._066_binary_tree_preorder_traversal;
+package lintcode._066_binary_tree_preorder_traversal;
 
-import algorithms.lintcode.common.ListNode;
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.ListNode;
+import lintcode.common.TreeNode;
 
 import java.util.ArrayList;
 

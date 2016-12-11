@@ -1,4 +1,4 @@
-package algorithms.leetcode._301_remove_invalid_parentheses;
+package leetcode._301_remove_invalid_parentheses;
 
 import java.util.*;
 

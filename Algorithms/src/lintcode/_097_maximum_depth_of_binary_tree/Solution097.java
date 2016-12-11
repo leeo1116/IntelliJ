@@ -1,6 +1,6 @@
-package algorithms.lintcode._097_maximum_depth_of_binary_tree;
+package lintcode._097_maximum_depth_of_binary_tree;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 /**
  * Created by Charlie on 2016/10/24. Monday

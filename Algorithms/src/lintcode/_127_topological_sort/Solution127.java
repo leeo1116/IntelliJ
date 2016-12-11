@@ -1,6 +1,6 @@
-package algorithms.lintcode._127_topological_sort;
+package lintcode._127_topological_sort;
 
-import algorithms.lintcode.common.DirectedGraphNode;
+import lintcode.common.DirectedGraphNode;
 
 import java.util.ArrayList;
 import java.util.HashMap;

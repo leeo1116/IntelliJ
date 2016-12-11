@@ -1,7 +1,7 @@
-package algorithms.lintcode._007_binary_tree_serialization;
+package lintcode._007_binary_tree_serialization;
 
-import algorithms.lintcode.common.ListNode;
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.ListNode;
+import lintcode.common.TreeNode;
 
 import java.util.*;
 

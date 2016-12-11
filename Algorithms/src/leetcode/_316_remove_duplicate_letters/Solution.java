@@ -1,4 +1,4 @@
-package algorithms.leetcode._316_remove_duplicate_letters;
+package leetcode._316_remove_duplicate_letters;
 
 /**
  * Created by Liang Li on 2016/7/16.

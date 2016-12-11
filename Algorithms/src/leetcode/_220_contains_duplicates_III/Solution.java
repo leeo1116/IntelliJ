@@ -1,4 +1,4 @@
-package algorithms.leetcode._220_contains_duplicates_III;
+package leetcode._220_contains_duplicates_III;
 
 import static java.lang.Math.abs;
 

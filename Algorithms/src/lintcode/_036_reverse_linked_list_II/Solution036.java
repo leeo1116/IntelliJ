@@ -1,6 +1,6 @@
-package algorithms.lintcode._036_reverse_linked_list_II;
+package lintcode._036_reverse_linked_list_II;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 /**
  * Created by Charlie on 2016/10/23. Sunday

@@ -1,6 +1,6 @@
-package algorithms.lintcode._166_Nth_to_last_node_in_list;
+package lintcode._166_Nth_to_last_node_in_list;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 /**
  * Created by Charlie on 2016/10/23.Sunday

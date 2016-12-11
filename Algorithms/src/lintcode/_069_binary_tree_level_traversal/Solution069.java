@@ -1,6 +1,6 @@
-package algorithms.lintcode._069_binary_tree_level_traversal;
+package lintcode._069_binary_tree_level_traversal;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

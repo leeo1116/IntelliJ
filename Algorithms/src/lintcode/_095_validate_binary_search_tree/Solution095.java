@@ -1,6 +1,6 @@
-package algorithms.lintcode._095_validate_binary_search_tree;
+package lintcode._095_validate_binary_search_tree;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 /**
  * Created by Charlie on 2016/10/24. Monday

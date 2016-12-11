@@ -1,4 +1,4 @@
-package algorithms.lintcode.common;
+package lintcode.common;
 
 /**
  * Created by Charlie on 2016/10/17. Monday

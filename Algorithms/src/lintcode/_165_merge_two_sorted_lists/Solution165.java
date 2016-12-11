@@ -1,6 +1,6 @@
-package algorithms.lintcode._165_merge_two_sorted_lists;
+package lintcode._165_merge_two_sorted_lists;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 public class Solution165 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

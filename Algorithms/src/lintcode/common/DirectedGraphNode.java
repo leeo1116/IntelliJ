@@ -1,4 +1,4 @@
-package algorithms.lintcode.common;
+package lintcode.common;
 
 import java.util.ArrayList;
 

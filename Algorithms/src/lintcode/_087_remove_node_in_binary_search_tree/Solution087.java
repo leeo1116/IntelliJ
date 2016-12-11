@@ -1,6 +1,6 @@
-package algorithms.lintcode._087_remove_node_in_binary_search_tree;
+package lintcode._087_remove_node_in_binary_search_tree;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 /**
  * Created by Charlie on 2016/10/29. Saturday

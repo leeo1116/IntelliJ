@@ -1,4 +1,4 @@
-package algorithms.lintcode._018_subsets_II;
+package lintcode._018_subsets_II;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
-package algorithms.lintcode._011_search_range_in_binary_tree;
+package lintcode._011_search_range_in_binary_tree;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 import java.util.ArrayList;
 

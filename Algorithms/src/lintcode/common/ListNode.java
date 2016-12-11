@@ -1,4 +1,4 @@
-package algorithms.lintcode.common;
+package lintcode.common;
 
 public class ListNode {
     public int val;

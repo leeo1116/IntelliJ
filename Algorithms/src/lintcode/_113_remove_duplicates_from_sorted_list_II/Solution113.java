@@ -1,6 +1,6 @@
-package algorithms.lintcode._113_remove_duplicates_from_sorted_list_II;
+package lintcode._113_remove_duplicates_from_sorted_list_II;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 import java.util.HashMap;
 import java.util.Map;

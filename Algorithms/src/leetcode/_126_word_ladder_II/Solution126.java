@@ -1,4 +1,4 @@
-package algorithms.leetcode._126_word_ladder_II;
+package leetcode._126_word_ladder_II;
 
 import java.util.*;
 

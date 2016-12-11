@@ -1,7 +1,7 @@
-package algorithms.lintcode._106_convert_sorted_list_to_balanced_BST;
+package lintcode._106_convert_sorted_list_to_balanced_BST;
 
-import algorithms.lintcode.common.ListNode;
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.ListNode;
+import lintcode.common.TreeNode;
 
 /**
  * Created by Charlie on 2016/10/16.Cloudy, Rainy

@@ -1,4 +1,4 @@
-package algorithms.lintcode._152_combinations;
+package lintcode._152_combinations;
 
 import org.omg.CORBA.INTERNAL;
 

@@ -1,4 +1,4 @@
-package algorithms.leetcode._207_course_schedule;
+package leetcode._207_course_schedule;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,6 +1,6 @@
-package algorithms.lintcode._167_add_two_numbers;
+package lintcode._167_add_two_numbers;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 /**
  * Created by Charlie on 2016/10/23.Sunday

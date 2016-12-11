@@ -1,6 +1,6 @@
-package algorithms.lintcode._102_linked_list_cycle;
+package lintcode._102_linked_list_cycle;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 /**
  * Created by Charlie on 2016/10/22.Saturday

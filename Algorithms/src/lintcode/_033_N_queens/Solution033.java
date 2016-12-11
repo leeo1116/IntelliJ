@@ -1,4 +1,4 @@
-package algorithms.lintcode._033_N_queens;
+package lintcode._033_N_queens;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package algorithms.lintcode._135_combination_sum;
+package lintcode._135_combination_sum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package algorithms.leetcode._282_expression_add_operations;
+package leetcode._282_expression_add_operations;
 
 import java.util.ArrayList;
 import java.util.List;

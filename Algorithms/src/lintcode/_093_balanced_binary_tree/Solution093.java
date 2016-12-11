@@ -1,6 +1,6 @@
-package algorithms.lintcode._093_balanced_binary_tree;
+package lintcode._093_balanced_binary_tree;
 
-import algorithms.lintcode.common.TreeNode;
+import lintcode.common.TreeNode;
 
 /**
  * Created by Charlie on 2016/10/24. Monday

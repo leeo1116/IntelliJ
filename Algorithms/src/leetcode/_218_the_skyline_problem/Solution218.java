@@ -1,4 +1,4 @@
-package algorithms.leetcode._218_the_skyline_problem;
+package leetcode._218_the_skyline_problem;
 
 import java.util.*;
 

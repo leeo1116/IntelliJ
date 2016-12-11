@@ -1,6 +1,6 @@
-package algorithms.lintcode._015_permutations;
+package lintcode._015_permutations;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

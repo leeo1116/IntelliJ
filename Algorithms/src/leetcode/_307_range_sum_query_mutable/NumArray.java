@@ -1,4 +1,4 @@
-package algorithms.leetcode._307_range_sum_query_mutable;
+package leetcode._307_range_sum_query_mutable;
 
 
 public class NumArray {

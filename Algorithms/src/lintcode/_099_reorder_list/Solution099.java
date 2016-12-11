@@ -1,6 +1,6 @@
-package algorithms.lintcode._099_reorder_list;
+package lintcode._099_reorder_list;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 import java.util.List;
 

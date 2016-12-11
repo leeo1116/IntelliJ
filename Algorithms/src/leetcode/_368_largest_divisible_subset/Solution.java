@@ -1,4 +1,4 @@
-package algorithms.leetcode._368_largest_divisible_subset;
+package leetcode._368_largest_divisible_subset;
 
 import java.util.Arrays;
 

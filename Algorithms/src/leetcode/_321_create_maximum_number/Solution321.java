@@ -1,4 +1,4 @@
-package algorithms.leetcode._321_create_maximum_number;
+package leetcode._321_create_maximum_number;
 
 
 public class Solution321 {

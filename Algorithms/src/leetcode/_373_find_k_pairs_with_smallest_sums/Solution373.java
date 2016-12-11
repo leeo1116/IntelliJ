@@ -1,4 +1,4 @@
-package algorithms.leetcode._373_find_k_pairs_with_smallest_sums;
+package leetcode._373_find_k_pairs_with_smallest_sums;
 
 import java.util.ArrayList;
 import java.util.List;

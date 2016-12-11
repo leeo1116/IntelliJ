@@ -1,6 +1,6 @@
-package algorithms.lintcode._170_rotate_list;
+package lintcode._170_rotate_list;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 /**
  * Created by Charlie on 2016/10/13. Rainy

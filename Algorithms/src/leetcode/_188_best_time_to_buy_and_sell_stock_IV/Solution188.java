@@ -1,4 +1,4 @@
-package algorithms.leetcode._188_best_time_to_buy_and_sell_stock_IV;
+package leetcode._188_best_time_to_buy_and_sell_stock_IV;
 
 /**
  * Created by Charlie on 2016/7/18.

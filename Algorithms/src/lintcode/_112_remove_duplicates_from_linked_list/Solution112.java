@@ -1,6 +1,6 @@
-package algorithms.lintcode._112_remove_duplicates_from_linked_list;
+package lintcode._112_remove_duplicates_from_linked_list;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 public class Solution112 {
     public static ListNode deleteDuplicates(ListNode head) {

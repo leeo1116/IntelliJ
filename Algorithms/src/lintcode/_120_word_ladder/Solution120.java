@@ -1,4 +1,4 @@
-package algorithms.lintcode._120_word_ladder;
+package lintcode._120_word_ladder;
 
 import java.util.LinkedList;
 import java.util.Queue;

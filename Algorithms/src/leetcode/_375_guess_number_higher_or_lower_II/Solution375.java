@@ -1,4 +1,4 @@
-package algorithms.leetcode._375_guess_number_higher_or_lower_II;
+package leetcode._375_guess_number_higher_or_lower_II;
 
 /**
  * Find out the minimum money that it is guaranteed to win

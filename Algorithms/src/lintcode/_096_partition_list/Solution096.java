@@ -1,6 +1,6 @@
-package algorithms.lintcode._096_partition_list;
+package lintcode._096_partition_list;
 
-import algorithms.lintcode.common.ListNode;
+import lintcode.common.ListNode;
 
 public class Solution096 {
     public static ListNode partition(ListNode head, int x) {

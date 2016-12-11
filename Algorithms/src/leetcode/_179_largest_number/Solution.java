@@ -1,4 +1,4 @@
-package algorithms.leetcode._179_largest_number;
+package leetcode._179_largest_number;
 
 import java.util.Arrays;
 import java.util.Comparator;
