@@ -14,34 +14,29 @@ public class Solution120 {
         int layerNum = 2;
         dict.add(end);  // universally process all strings in dict
         dict.remove(start); // in case dict contains start word
-        for (int i = 0; i < start.length(); i ++) {
-            for (int j = 0; j < 26; j ++) {
-                String nextWord = start.substring(0, i) + (char)('a'+j) + start.substring(i+1);
-                if (nextWord.equals(end)) return layerNum;
-                if (dict.contains(nextWord)) {
-                    queue.offer(nextWord);
-                    dict.remove(nextWord);
-                }
-            }
-        }
+        findNextWords(start, dict, queue);
         while (!queue.isEmpty()) {
             int queueSize = queue.size();  // The size of queue is equal to the number of nodes in current 'layer'
             for (int i = 0; i < queueSize; i++) {
                 String word = queue.poll();
                 if (word.equals(end)) return layerNum;
                 // Enqueue all unvisited neighbors, i.e. next words to visit
-                for (int j = 0; j < word.length(); j++) {
-                    for (int k = 0; k < 26; k++) {
-                        String nextWord = word.substring(0, j) + (char)('a' + k) + word.substring(j + 1);
-                        if (dict.contains(nextWord)) {
-                            queue.offer(nextWord);
-                            dict.remove(nextWord);
-                        }
-                    }
-                }
+                findNextWords(word, dict, queue);
             }
             layerNum ++;
         }
         return 0;
+    }
+
+    private void findNextWords(String word, Set<String> dict, Queue<String> queue) {
+        for (int j = 0; j < word.length(); j++) {
+            for (int k = 0; k < 26; k++) {
+                String nextWord = word.substring(0, j) + (char)('a' + k) + word.substring(j + 1);
+                if (dict.contains(nextWord)) {
+                    queue.offer(nextWord);
+                    dict.remove(nextWord);
+                }
+            }
+        }
     }
 }

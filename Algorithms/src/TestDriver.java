@@ -8,6 +8,7 @@ import lintcode._105_copy_list_with_random_pointer.Solution105;
 import lintcode._106_convert_sorted_list_to_balanced_BST.Solution106;
 import lintcode._113_remove_duplicates_from_sorted_list_II.Solution113;
 import lintcode._120_word_ladder.Solution120;
+import lintcode._121_word_ladder_II.Solution121;
 import lintcode._135_combination_sum.Solution135;
 import lintcode.common.ListNode;
 import lintcode.common.RandomListNode;
@@ -83,6 +84,10 @@ public class TestDriver {
         // Solution015
         Solution015 s015 = new Solution015();
         s015.permute(new int[]{});
+
+        // Solution121
+        Solution121 s121 = new Solution121();
+        System.out.println(s121.findLadders("hit", "cog", new HashSet<String>(Arrays.asList("hot", "dot", "dog", "lot", "log"))));
     }
 
 }
