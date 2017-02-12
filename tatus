@@ -1,0 +1,232 @@
+[33mcommit f00ef0537237ef52a2f33a3472292a0e5bcfb9f4[m
+Merge: e63aa3f ce0666a
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Feb 11 23:34:26 2017 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    Conflicts:
+    	Algorithms/.idea/workspace.xml
+    	Algorithms/src/TestDriver.java
+    	Leetcode/out/production/Leetcode/algorithms/lintcode/TestDriver.class
+    	Leetcode/out/production/Leetcode/algorithms/lintcode/_015_permutations/Solution015.class
+
+[33mcommit e63aa3facd5e8e001c80f46a881af445bfe7293b[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Feb 11 23:33:12 2017 -0800
+
+    02/11
+
+[33mcommit ce0666aa0b1601a47ffe55dc2e0499ee82e37548[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Tue Dec 13 00:02:54 2016 -0800
+
+    Add word ladder II
+
+[33mcommit 58712fd5e7b61f677c4264a8fb623dc32700e3f4[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:50:16 2016 -0800
+
+    xuehu
+
+[33mcommit dbfeaba2e19a9ded538b746bd7fe73967e60a1fd[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:48:46 2016 -0800
+
+    move gitignore
+
+[33mcommit 1fbe85aa436b13248bd87dfd0952a4d26b27c9f8[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:46:33 2016 -0800
+
+    add gitignore
+
+[33mcommit 5ccb106aa95e270209763ee0313fd077ddcdf353[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:43:07 2016 -0800
+
+    workspace.xml
+
+[33mcommit f42c423ba1dcd37d7d6ebca21b47423d5a57bc8a[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:42:47 2016 -0800
+
+    Clean up project
+
+[33mcommit 05ccdc4c1c8c23cd783ea5055c737740671d513b[m
+Author: leeo1116 <leeo1116@gmail.com>
+Date:   Sun Dec 11 00:35:14 2016 -0800
+
+    2016-12-11 00:34:39
+
+[33mcommit 3202291db0ed03f55eb38b388cfdfd4dec745a00[m
+Author: Li <amznlian@c4b301c893f3.ant.amazon.com>
+Date:   Sat Dec 10 23:29:48 2016 -0800
+
+    Rename leetcode directory
+
+[33mcommit 81ae4e8170ca1b8f11bfb1bffa9258496cddc746[m
+Author: Li <amznlian@c4b301c893f3.ant.amazon.com>
+Date:   Sat Dec 10 23:28:35 2016 -0800
+
+    Rename directories
+
+[33mcommit b48770466939ce23f6618938eed2ce1f56889e14[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sun Nov 20 21:21:12 2016 -0800
+
+    Lintcode 2016/11/20
+
+[33mcommit 41ebf61f24d6f1561af7475e89571b5ddf73ed6b[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sun Oct 30 18:41:35 2016 -0700
+
+    10/30
+
+[33mcommit b740e9961ed70fc4b702ec6af1033c4e6829359f[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Thu Oct 13 23:40:37 2016 -0700
+
+    10/13
+
+[33mcommit de9fab8dcd1347eb89595cc237017688a4d2fdfe[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Oct 8 10:51:34 2016 -0700
+
+    10/08
+
+[33mcommit feb384b9cc2ca45fedd2b7ddfaeab662f2739438[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Oct 8 10:47:58 2016 -0700
+
+    10/08
+
+[33mcommit 8069462a828f0dc2c78638d2f866251cdbfd58a3[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Oct 8 10:45:47 2016 -0700
+
+    10/08
+
+[33mcommit fd07c3cac3a424aaa19ba635ba07562f9bd94333[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Aug 13 15:26:55 2016 -0700
+
+    08/13
+
+[33mcommit 7555b09f33091d1a5c66a7ca1e371f67965cb87c[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Fri Jul 22 17:00:11 2016 -0700
+
+    07/22
+
+[33mcommit fa3232a3d121d12baecea555fe2ce110f91a32a7[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Fri Jul 22 16:22:44 2016 -0700
+
+    07/22
+
+[33mcommit efcb8155514ddca2b2d787345d60815956d65700[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jul 20 15:12:13 2016 -0700
+
+    07/20
+    
+    Deleted Coursera Java, files too large
+
+[33mcommit afb424d08ad3f2197add58e88eb132706c99200d[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jul 20 14:59:50 2016 -0700
+
+    07/20
+    
+    Added Coursera Java Program Design Peking University
+
+[33mcommit 531a30a97daedf4752b464d5682250aa0d60e077[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jul 20 14:18:11 2016 -0700
+
+    07/20
+
+[33mcommit 1da9c555cf7689f412e99850ff1bb735971bab12[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Tue Jul 19 17:44:54 2016 -0700
+
+    07/19
+
+[33mcommit cfd15a242e509ca52ba80f195120f67c94057741[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Mon Jul 18 23:24:22 2016 -0700
+
+    07/18
+
+[33mcommit bc4d8e12b8d50cca336a7eac189418174b28e821[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sun Jul 17 22:54:02 2016 -0700
+
+    07/17
+
+[33mcommit 098a393365c57791cf809d1c5d9442265e460149[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Jul 16 23:02:42 2016 -0700
+
+    07/16
+
+[33mcommit eecdecd8f84726fd6fc853399268200c2354f752[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jul 13 23:52:02 2016 -0500
+
+    07/13
+
+[33mcommit 870f5683909d51a606ba1135db915bc6ce278050[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Mon Jul 11 00:02:28 2016 -0500
+
+    07/11
+
+[33mcommit 21e566d0c7f7ad04be7acd233e1d1d0d7548da5a[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sun Jul 10 22:54:36 2016 -0500
+
+    07/10
+
+[33mcommit feb1516aee212bf992257e76e7ac697247dbe0cc[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Fri Jul 8 21:14:00 2016 -0500
+
+    07/08
+
+[33mcommit ef2db21c4064c8e7d7fe64a5b4a221385a67cab2[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Thu Jul 7 16:05:51 2016 -0500
+
+    07/07
+
+[33mcommit e7b9a0381f0bb6d6926fec17aee12c0c79776ea1[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Sat Jul 2 23:57:00 2016 -0500
+
+    07/02
+
+[33mcommit 9701303f62be18277bed13fd3f67da985ad35a0e[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Thu Jun 30 23:49:55 2016 -0500
+
+    06/30
+
+[33mcommit 04a2a082bf7d0adf8107c99fe663b4a071b05586[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jun 29 18:06:27 2016 -0500
+
+    06/29
+
+[33mcommit becd4da471781a265ebe31a4fcd8263b20eaa68d[m
+Author: Liang Li <leeo1116@gmail.com>
+Date:   Wed Jun 29 18:04:03 2016 -0500
+
+    06/29
+
+[33mcommit 607d2c13bcbe86b9f3adc98d56ff7d1e47d4deb6[m
+Author: Charlie <leeo1116@gmail.com>
+Date:   Sun May 15 01:40:24 2016 -0500
+
+    Added Test
