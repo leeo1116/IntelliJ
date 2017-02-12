@@ -1,6 +1,5 @@
 package algorithms.lintcode;
 
-import algorithms.leetcode._179_largest_number.Solution;
 import algorithms.lintcode._004_ugly_number.Solution004;
 import algorithms.lintcode._007_binary_tree_serialization.Solution007;
 import algorithms.lintcode._015_permutations.Solution015;
@@ -19,7 +18,6 @@ import algorithms.lintcode.common.ListNode;
 import algorithms.lintcode.common.RandomListNode;
 import algorithms.lintcode.common.TreeNode;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 

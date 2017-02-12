@@ -5,10 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e893bc7-e265-4ea2-93b5-e6569e7e4dce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_126_word_ladder_II/Solution126.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_179_largest_number/Solution$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_179_largest_number/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_188_best_time_to_buy_and_sell_stock_IV/Solution188.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_207_course_schedule/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_210_course_schedule_II/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_212_word_search_II/Solution212$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_212_word_search_II/Solution212$TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_212_word_search_II/Solution212.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_218_the_skyline_problem/Solution218$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_218_the_skyline_problem/Solution218.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_220_contains_duplicates_III/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_282_expression_add_operations/Solution282.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_297_serialize_and_deserialize_binary_tree/Codec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_297_serialize_and_deserialize_binary_tree/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_301_remove_invalid_parentheses/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_307_range_sum_query_mutable/NumArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_316_remove_duplicate_letters/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_321_create_maximum_number/Solution321.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_368_largest_divisible_subset/Solution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_373_find_k_pairs_with_smallest_sums/Solution373.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/leetcode/_375_guess_number_higher_or_lower_II/Solution375.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/TestDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_007_binary_tree_serialization/Solution007.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_011_search_range_in_binary_tree/Solution011.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_015_permutations/Solution015.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_017_subsets/Solution017.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_018_subsets_II/Solution018.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_033_N_queens/Solution033.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_035_reverse_linked_list/Solution035.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_036_reverse_linked_list_II/Solution036.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_066_binary_tree_preorder_traversal/Solution066.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_069_binary_tree_level_traversal/Solution069.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_073_construct_binary_tree_from_preorder_inorder_traversal/Solution073.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_085_insert_node_in_a_binary_search_tree/Solution085.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_087_remove_node_in_binary_search_tree/Solution087.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_093_balanced_binary_tree/Solution093.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_095_validate_binary_search_tree/Solution095.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_096_partition_list/Solution096.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_097_maximum_depth_of_binary_tree/Solution097.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_098_sort_list/Solution098.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_099_reorder_list/Solution099.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_102_linked_list_cycle/Solution102.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_103_linked_list_cycle/Solution103.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_105_copy_list_with_random_pointer/Solution105.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_106_convert_sorted_list_to_balanced_BST/Solution106.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_112_remove_duplicates_from_linked_list/Solution112.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_113_remove_duplicates_from_sorted_list_II/Solution113.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_120_word_ladder/Solution120.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_127_topological_sort/Solution127.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_135_combination_sum/Solution135.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_152_combinations/Solution152.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_165_merge_two_sorted_lists/Solution165.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_166_Nth_to_last_node_in_list/Solution166.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_167_add_two_numbers/Solution167.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/_170_rotate_list/Solution170.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/common/DirectedGraphNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/common/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/common/RandomListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/algorithms/lintcode/common/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_126_word_ladder_II/Solution126.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_179_largest_number/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_188_best_time_to_buy_and_sell_stock_IV/Solution188.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_207_course_schedule/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_210_course_schedule_II/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_212_word_search_II/Solution212.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_218_the_skyline_problem/Solution218.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_220_contains_duplicates_III/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_282_expression_add_operations/Solution282.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_297_serialize_and_deserialize_binary_tree/Codec.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_301_remove_invalid_parentheses/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_307_range_sum_query_mutable/NumArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_316_remove_duplicate_letters/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_321_create_maximum_number/Solution321.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_368_largest_divisible_subset/Solution.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_373_find_k_pairs_with_smallest_sums/Solution373.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/leetcode/_375_guess_number_higher_or_lower_II/Solution375.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_004_ugly_number/Solution004.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_007_binary_tree_serialization/Solution007.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_011_search_range_in_binary_tree/Solution011.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_012_min_stack/MinStack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_015_permutations/Solution015.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_016_permutations_II/Solution016.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_017_subsets/Solution017.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_018_subsets_II/Solution018.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_029_interleaving_string/Solution029.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_033_N_queens/Solution033.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_035_reverse_linked_list/Solution035.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_036_reverse_linked_list_II/Solution036.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_040_implement_queue_by_two_stacks/Queue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_041_maximum_subarray/Solution041.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_066_binary_tree_preorder_traversal/Solution066.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_069_binary_tree_level_traversal/Solution069.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_073_construct_binary_tree_from_preorder_inorder_traversal/Solution073.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_081_data_stream_median/Solution081.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_085_insert_node_in_a_binary_search_tree/Solution085.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_087_remove_node_in_binary_search_tree/Solution087.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_092_backpack/Solution092.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_093_balanced_binary_tree/Solution093.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_095_validate_binary_search_tree/Solution095.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_096_partition_list/Solution096.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_097_maximum_depth_of_binary_tree/Solution097.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_098_sort_list/Solution098.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_099_reorder_list/Solution099.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_102_linked_list_cycle/Solution102.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_103_linked_list_cycle/Solution103.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_104_merge_k_sorted_lists/Solution104.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_105_copy_list_with_random_pointer/Solution105.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_106_convert_sorted_list_to_balanced_BST/Solution106.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_107_word_break/Solution107.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_109_triangle/Solution109.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_111_climbing_stairs/Solution111.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_112_remove_duplicates_from_linked_list/Solution112.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_113_remove_duplicates_from_sorted_list_II/Solution113.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_118_distinct_subsequences/Solution118.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_119_edit_distance/Solution119.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_120_word_ladder/Solution120.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_121_word_ladder_II/Solution121.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_122_largest_rectangle_in_histgram/Solution122.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_124_longest_consecutive_sequence/Solution124.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_127_topological_sort/Solution127.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_132_word_search_II/Solution132.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_135_combination_sum/Solution135.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_152_combinations/Solution152.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_165_merge_two_sorted_lists/Solution165.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_166_Nth_to_last_node_in_list/Solution166.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_167_add_two_numbers/Solution167.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_170_rotate_list/Solution170.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/_191_maximum_product_subarray/Solution191.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/common/DirectedGraphNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/common/ListNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/common/RandomListNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/common/TreeNode.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java" afterPath="$PROJECT_DIR$/src/algorithms/lintcode/TestDriver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Leetcode.iml" afterPath="$PROJECT_DIR$/Algorithms.iml" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -153,44 +293,8 @@
               <option name="myItemId" value="Leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lintcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithms" />
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,8 +303,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -663,7 +768,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23903178" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24659607" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1087,6 +1192,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,6 +1200,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
