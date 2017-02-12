@@ -1,11 +1,14 @@
 package algorithms.lintcode;
 
 import algorithms.leetcode._179_largest_number.Solution;
+import algorithms.lintcode._004_ugly_number.Solution004;
 import algorithms.lintcode._007_binary_tree_serialization.Solution007;
 import algorithms.lintcode._015_permutations.Solution015;
 import algorithms.lintcode._017_subsets.Solution017;
 import algorithms.lintcode._018_subsets_II.Solution018;
+import algorithms.lintcode._029_interleaving_string.Solution029;
 import algorithms.lintcode._033_N_queens.Solution033;
+import algorithms.lintcode._081_data_stream_median.Solution081;
 import algorithms.lintcode._098_sort_list.Solution098;
 import algorithms.lintcode._105_copy_list_with_random_pointer.Solution105;
 import algorithms.lintcode._106_convert_sorted_list_to_balanced_BST.Solution106;
@@ -88,6 +91,19 @@ public class TestDriver {
         // Solution015
         Solution015 s015 = new Solution015();
         s015.permute(new int[] {});
+
+        // Solution029
+        Solution029 s029 = new Solution029();
+        boolean isInterleave = s029.isInterleave("abcd", "ef", "efabce");
+        System.out.println(isInterleave);
+
+        // Solution004
+        Solution004 s004 = new Solution004();
+        s004.nthUglyNumber(5);
+
+        // Solution081
+        Solution081 s081 = new Solution081();
+        s081.medianII(new int[] {1, 2, 3, 4, 5});
     }
 
 }
